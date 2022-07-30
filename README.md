@@ -2,6 +2,6 @@
 
 [http://www.objgen.com/json/models/SAC](http://www.objgen.com/json/models/SAC)
 
-## Use your own data
+## Api
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+[https://my-json-server.typicode.com/felipe-pita/esmalte-app-api/options](https://my-json-server.typicode.com/felipe-pita/esmalte-app-api/options)
