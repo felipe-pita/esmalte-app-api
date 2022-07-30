@@ -1,6 +1,6 @@
-## Try it
+## ObjGen
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[http://www.objgen.com/json/models/SAC](http://www.objgen.com/json/models/SAC)
 
 ## Use your own data
 
