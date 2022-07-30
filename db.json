@@ -1,14 +1,42 @@
+// Objgen http://www.objgen.com/json/models/SAC
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "games": [
+    {
+      "options": [
+        {
+          "name": "TODAS POR UMA",
+          "color": "#000000"
+        },
+        {
+          "name": "FORÇA CELESTIAL",
+          "color": "#000000"
+        },
+        {
+          "name": "SE JOGA NO BEGE",
+          "color": "#000000"
+        },
+        {
+          "name": "DROSA PARA TODES",
+          "color": "#000000"
+        },
+        {
+          "name": "HOW YOU DOIN?",
+          "color": "#000000"
+        },
+        {
+          "name": "CAFÉ NO CENTRAL PERK",
+          "color": "#000000"
+        },
+        {
+          "name": "PREGUIÇA DE PADRÃO",
+          "color": "#000000"
+        },
+        {
+          "name": "ASTROLOGIA A LOUCA DOS SIGNOS",
+          "color": "#000000"
+        }
+      ]
+    }
+  ]
 }
